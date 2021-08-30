@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
     {
         string textForSpeak, textP1, textP2, textCheering, P1,P2, textAll;
         public string checkNewAudio = "A";
-        public string oldAudio = "A", commentP1strong = "Now, P1 is stronger than P2." , commentP2strong = "Now, P2 is stronger than P1.";
+        public string oldAudio = "A", commentP1strong = "Now, ZEN is stronger than LUD." , commentP2strong = "Now, LUD is stronger than ZEN.";
         string copyWords;
         string midiAll;
         string[] words, midi;
